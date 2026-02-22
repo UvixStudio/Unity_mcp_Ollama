@@ -1,5 +1,7 @@
 # מדריך התקנה - Unity MCP עם Ollama
 
+#### נבנה ונכתב ע"י: יובל כהן
+
 חיבור מודלי AI (דרך Ollama) ל-Unity Editor באמצעות Model Context Protocol.
 
 ## 🎯 מה זה עושה?
